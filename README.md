@@ -81,7 +81,7 @@ The trained model is saved as:
 finalModel.bin
 ```
 
-## Algorithms and Techniques
+## Key Concepts
 
 - Natural Language Processing (NLP)
 - Binary text classification
