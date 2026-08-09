@@ -4,7 +4,7 @@ Kaggle Challenge: https://www.kaggle.com/c/quora-insincere-questions-classificat
 
 ## Problem
 
-Quora needs a scalable way to identify **insincere questions**—questions based on false premises or intended to make statements rather than seek useful answers (https://www.kaggle.com/c/quora-insincere-questions-classification). This project builds a binary text classifier to distinguish sincere (`0`) from insincere (`1`) questions.
+Quora needs a scalable way to identify **insincere questions**—questions based on false premises or intended to make statements rather than seek useful answers. This project builds a binary text classifier to distinguish sincere (`0`) from insincere (`1`) questions.
 
 ## Approach
 
